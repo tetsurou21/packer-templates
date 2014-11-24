@@ -1,0 +1,10 @@
+keyboard=Japanese
+timezone=Asia/Tokyo
+auto_reg=disable
+network_interface=PRIMARY
+                  {dhcp protocol_ipv6=yes}
+nfs4_domain=dynamic
+root_password=$1$MrZPBLgm$Gj2Ofw3ca2eKiIVB72zeL/
+system_locale=ja
+security_policy=NONE
+name_service=NONE
