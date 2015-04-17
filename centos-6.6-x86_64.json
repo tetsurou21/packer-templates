@@ -54,6 +54,7 @@
         "scripts/common/vagrant.sh",
         "scripts/common/vmtools.sh",
         "scripts/centos/ansible-pip.sh",
+        "scripts/centos/selinux.sh",
         "scripts/centos/cleanup.sh",
         "scripts/common/minimize.sh"
       ],
